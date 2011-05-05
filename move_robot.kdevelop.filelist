@@ -1,0 +1,15 @@
+# KDevelop Custom Project File List
+Makefile
+cssl.c
+cssl.h
+init_serial.c
+init_serial.h
+init_socket.c
+init_socket.h
+main.c
+move_robot.c
+move_robot.h
+read_serial.c
+read_serial.h
+read_socket.c
+read_socket.h
